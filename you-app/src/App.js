@@ -31,7 +31,11 @@ export default class App extends React.Component {
        
        />
        
-       <Footer/>
+       <Footer
+       platform ='Amazon'
+       phone='Iphone'
+       beverage='Tea'
+       />
      
       </>
     )
