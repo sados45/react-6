@@ -40,3 +40,14 @@
     transform: rotate(360deg);
   }
 }
+
+.input-card{
+  border:1px solid black;
+  width:80%;
+  margin:20px auto;
+  box-shadow:5px 5px 15px 5px #000000;
+  padding:20px;
+  border-radius:20px;
+ 
+}
+
